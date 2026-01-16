@@ -1,4 +1,4 @@
-# ZobbisApp
+# Zobbis
 
 > **License Notice**  
 > Source code in this repository is licensed under the MIT License.  
