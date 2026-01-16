@@ -1,5 +1,9 @@
 # ZobbisApp
 
+> **License Notice**  
+> Source code in this repository is licensed under the MIT License.  
+> Visual assets, branding, and the project name "Zobbis" are **not** licensed for reuse.
+
 ZobbisApp is a private software project focused on building a reliable foundation
 for real-world human interaction.
 
@@ -13,7 +17,7 @@ but a supporting system that enables meaningful, real-world encounters.
 
 **Meet instead of typing.**
 
-Zobbis is not a social network.
+Zobbis is not a social network.  
 Digital communication is treated strictly as a tool — not as a destination.
 
 The system exists to help coordinate real, spontaneous, and private encounters
@@ -23,29 +27,29 @@ in a controlled and temporary manner.
 
 ## Project Focus
 
-- Private, purpose-driven message exchange
-- Explicit multi-device support with clear device separation
-- Clear separation of application, backend, and protocol layers
-- Explicit design decisions over implicit convenience
-- Minimalism, purpose limitation, and privacy-aware design
+- Private, purpose-driven message exchange  
+- Explicit multi-device support with clear device separation  
+- Clear separation of application, backend, and protocol layers  
+- Explicit design decisions over implicit convenience  
+- Minimalism, purpose limitation, and privacy-aware design  
 
 ---
 
 ## Repository Structure (Overview)
 
-- `ZobbisApp/` – Mobile application (React Native)
-- `Backend/` – Server backend (Node.js / TypeScript)
-- `packages/protocol/` – Shared protocol and contract definitions
-- `ZobbisMapServer/` – Experimental auxiliary service
-- `patches/` – Project-specific fixes and overrides
+- `ZobbisApp/` – Mobile application (React Native)  
+- `Backend/` – Server backend (Node.js / TypeScript)  
+- `packages/protocol/` – Shared protocol and contract definitions  
+- `ZobbisMapServer/` – Experimental auxiliary service  
+- `patches/` – Project-specific fixes and overrides  
 
 ---
 
 ## Configuration & Handling
 
-- Sensitive material (such as secrets, tokens, or keys) is not part of this repository
-- Configuration is handled via environment variables or platform-specific secure storage
-- The repository history has been reviewed prior to any potential publication
+- Sensitive material (such as secrets, tokens, or keys) is not part of this repository  
+- Configuration is handled via environment variables or platform-specific secure storage  
+- The repository history has been reviewed prior to publication  
 
 ---
 
@@ -60,9 +64,14 @@ state before additional domains or features are considered.
 
 ## Access
 
-This repository is currently **private**.
-Access is granted explicitly and intentionally.
+This repository is publicly accessible for transparency, review, and discussion.
+
+Use of the **source code** is permitted under the MIT License.  
+Use of **visual assets, branding, or the project name "Zobbis"** is not permitted.
 
 ---
 
-© ZobbisApp – All rights reserved
+## License
+
+- **Source code:** MIT License (see `LICENSE-CODE`)  
+- **Assets, branding, and name "Zobbis":** All rights reserved (see `LICENSE-ASSETS`)
